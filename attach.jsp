@@ -58,3 +58,4 @@ registryPoolSerial = request.getParameter("registryPoolSerial");
 
         </table>
     </div>
+ <script src="filedrag.js"></script>
